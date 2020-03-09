@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    color: black;
+}
+
+table {
+    background-color: azure;
+    border: none;
+}
+#container{
+    max-width: 480px;
+    margin: 0 auto;
+    background-color:rgb(234, 241, 224);
+    padding: 64px;
+    border-radius: 25px;
+
+     }
+
+h1{
+    text-align: center;
+}
